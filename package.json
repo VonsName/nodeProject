@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consolidate": "^0.15.1",
+    "ejs": "^2.6.1",
+    "express": "latest",
+    "express-static": "^1.2.5",
+    "mysql": "^2.15.0"
+  }
+}
